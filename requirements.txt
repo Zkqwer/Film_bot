@@ -1,2 +1,0 @@
-aiogram==2.25.2
-kinopoisk-api-unofficial-client=2.2.2
