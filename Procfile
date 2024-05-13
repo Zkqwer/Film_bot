@@ -1,0 +1,1 @@
+worker: python bot\main\__init__.py
